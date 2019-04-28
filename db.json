@@ -1,5 +1,5 @@
 {
-  "colonies": [
+ "data":{ "colonies": [
     {
       	"id": 1,
     	"postalCode" : "04815",
@@ -43,4 +43,5 @@
   "profile": {
     "name": "typicode"
   }
+}
 }
