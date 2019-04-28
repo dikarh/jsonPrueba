@@ -1,50 +1,10 @@
 {
 	"result": {
-		 "data":{ 
-		 	"colonies": [
-		    {
-			"id": 1,
-			"postalCode" : "04815",
-				"neighborhood" : "Emiliano Zapata",
-				"township" : "Coyoacan",
-				"stateKey" : "CDMX",
-				"state" : "Ciudad de México",
-				"city" : "Coyoacan"
-		    }, 
-		    {
-			"id": 2,
-			"postalCode" : "04815",
-				"neighborhood" : "Lomas de Zaragoza",
-				"township" : "Coyoacan",
-				"stateKey" : "CDMX",
-				"state" : "Ciudad de México",
-				"city" : "Coyoacan"
-		    },
-		    {
-			"id": 3,
-			"postalCode" : "04815",
-				"neighborhood" : "Actipan",
-				"township" : "Coyoacan",
-				"stateKey" : "CDMX",
-				"state" : "Ciudad de México",
-				"city" : "Coyoacan"
-		    }
-		  ],
-		  "comments": [
-		    {
-		      "id": 1,
-		      "body": "some comment",
-		      "postId": 1
-		    },
-		    {
-		      "id": 2,
-		      "body": "some comment",
-		      "postId": 1
-		    }
-		  ],
-		  "profile": {
-		    "name": "typicode"
-		  }
+		 "data":{
+			"capacityPay": 2000.00,
+			"maximumAmount": 200000.00,
+			"minimumAmount": 2000.00,
+			"instalments": [12,24,36]	 	
 		}, 
  	"codeHttpStatus" : 200
 	}
