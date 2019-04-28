@@ -1,5 +1,5 @@
-{
- "data":{ 
+{"result": {
+	 "data":{ 
 	 "colonies": [
 	    {
 		"id": 1,
@@ -45,4 +45,6 @@
 	    "name": "typicode"
 	  }
 	}
+},
+ "codeHttpStatus" : 200
 }
